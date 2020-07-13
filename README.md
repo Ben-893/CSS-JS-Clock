@@ -1,5 +1,5 @@
 # CSS-JS Clock
-A single page web app that with an analog clock face the displays the current time wherever you are.
+A single page web app with an analog clock face that displays the current time wherever you use it.
 
 ### To Install
 ```
